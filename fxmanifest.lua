@@ -21,7 +21,7 @@ server_scripts {
 }
 
 files {
-    'sql/schema.sql'
+    'esx_vehiclelock.sql'
 }
 
 locales {
